@@ -1,2 +1,2 @@
 # jiratestrepo
-test for JHTESGIT-1
+test for JHTESGIT-1 branch
